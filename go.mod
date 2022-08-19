@@ -1,4 +1,4 @@
-module github.com/scylladb/gocqlx/v2
+module github.com/bailycase/gocqlx/v2
 
 go 1.17
 
